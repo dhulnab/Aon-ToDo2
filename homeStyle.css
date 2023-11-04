@@ -136,12 +136,11 @@ input[type=text]:focus{
 }
 
 footer{
+    margin-top: 140px !important;
+    text-align: center;
     font-size: 18px;
     font-weight: 400;
     color: #666666;
-    text-align: center;
-    position: relative;
-    bottom: -230;
 }
 footer span{
     color: #0000FF;
@@ -194,6 +193,16 @@ footer span{
         position: fixed;
         bottom: 20px;
     }
-
-
-  }
+    .img{
+        width: 327px;
+        height: 230px;
+    }
+    footer{
+        font-size: 14px;
+        font-weight: 400;
+        color: #666666;
+        font-size: 15px;
+        text-align: center;
+        margin-top: 160px;
+    }
+ }
